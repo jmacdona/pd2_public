@@ -1,0 +1,10 @@
+ca_bump 100
+ca_bond 1.0
+
+bond_potential	1.0
+dihedral_restraint	1.0
+strand_pairing_rst 1.0
+angle_restraint	1.0
+
+
+res_contact_rst 1.0

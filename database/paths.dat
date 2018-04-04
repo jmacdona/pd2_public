@@ -1,0 +1,37 @@
+#
+# database path settings
+# follows key/value format with single space/tab separation between fields
+#
+# Options can be accessed through prodart_env option system e.g. PRODART::ENV::get_option_value<string>("database:path:example") 
+#
+# Note that option keys defined in this file are automatically prepended by database:path:
+# and that paths here automatically prepended by the database directory path so you only need to put in a relative path
+#
+
+#example_key example_path 
+
+dun_bb_rot dunbrack_bbdep_rotamers/bbdep02.May.lib.gz
+potentials_weights	potentials_weights
+residue_defs	residue_defs
+atom_type_map	atom_type_map.dat
+
+ca_fragment_classifier_db	ca_fragment_classifier/F_27_classifier.dat
+ca_bond	ca_bond/ca_bond.dat
+ca_tau_omega	ca_tau_omega/F_27_scores_SCOP40.dat
+ca_frag_freq	ca_frag_freq/F_27_scores_SCOP40.dat
+ca_hbond	ca_hbond/scores_SCOP40.dat
+ca_frag_pac	ca_frag_pac/F_27_scores_SCOP40.dat 
+ca_density	ca_density/ca_density.dat
+
+backbone_builder	backbone_builder/backbone_builder_purged_0_3.dat
+alphabet_bb_builder:L6	backbone_builder/L6_g521plus7_s40.pdb
+
+
+bb_builder_IBBB	backbone_builder/IBBB/IBBB_database_0_3.dat
+bb_frag3_mq	bb_frag3_mq/frag3_MQ_db.dat
+bb_forbidden_phi_psi	bb_forbidden_phi_psi/forbidden_phi_psi.dat
+bb_pp_bias_correction	bb_pp_bias_correction/phi_psi_bias_for_bbb.dat
+bb_old_hbond	bb_old_hbond/bb_old_hbond_SCOP40.dat
+
+
+

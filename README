@@ -1,0 +1,33 @@
+
+prodart2 requires the Gnu Scientific Library (tested with version 1.15), Boost libraries (tested with version 1.47) and SCons (tested with version 2.2.0) build system installed and in the include path and link path in order to compile. 
+This should be easy with most modern distributions of Linux and is quite straightforward with MacPorts or Fink on the Mac 
+(but you may need to add the paths to the SConstruct file). If you are using Windows, then I have no idea how to make it work.
+
+See SConstruct to see the include paths if you are having problems. 
+
+By default the default paths for MacPorts are included (i.e. /opt/local/include/ for header files and /opt/local/lib/ for the libraries).
+For Fink these should be /sw/include/ and /sw/lib/ respectively.
+
+type:
+
+	scons 
+
+in the main directory (i.e. prodart2/ not prodart2/src) to compile.
+
+Executables should then be found in the bin/ directory if nothing has gone wrong.
+
+
+
+PD2 ca2main commands:
+
+without minimisation (PD2-min)
+./bin/pd2_ca2main  --database ./database/  --ca2main:new_fixed_ca --ca2main:bb_min_steps 0 -i input.pdb -o output.pdb
+
+
+with minimisation (PD2+min)
+./bin/pd2_ca2main  --database ./database/  --ca2main:new_fixed_ca --ca2main:bb_min_steps 500 -i input.pdb -o output.pdb
+
+
+
+
+

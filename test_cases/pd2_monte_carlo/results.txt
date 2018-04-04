@@ -1,0 +1,56 @@
+pd2_monte_carlo	22.25	lc-jmacdona.bc.ic.ac.uk	jmacdona	1a6f0457b999+ tip	Sat  5 Oct 18:26:36 BST 2013
+pd2_monte_carlo	30.41	zino	jmacdona	2ee2cd4883cd+ tip	Sun Oct  6 22:20:31 BST 2013
+pd2_monte_carlo	29.12	zino	jmacdona	62b4ffe0de0a+ tip	Sun Oct  6 23:01:27 BST 2013
+pd2_monte_carlo	29.03	zino	jmacdona	38457329ad2b tip	Sun Oct  6 23:03:46 BST 2013
+pd2_monte_carlo	29.24	zino	jmacdona	41f1cb29e32c+ tip	Sun Oct  6 23:07:21 BST 2013
+pd2_monte_carlo	27.46	zino	jmacdona	ae28fb938313+ tip	Sun Oct  6 23:13:04 BST 2013
+pd2_monte_carlo	26.28	zino	jmacdona	485a95ed3aa0+ tip	Sun Oct  6 23:15:55 BST 2013
+pd2_monte_carlo	27.2	zino	jmacdona	485a95ed3aa0+ tip	Sun Oct  6 23:17:41 BST 2013
+pd2_monte_carlo	27.01	zino	jmacdona	1f5f8bb4dafa tip	Sun Oct  6 23:18:48 BST 2013
+pd2_monte_carlo	21.06	lc-jmacdona.bc.ic.ac.uk	jmacdona	406c45e7dd29 tip	Sun  6 Oct 23:42:47 BST 2013
+pd2_monte_carlo	16.28	lc-jmacdona.bc.ic.ac.uk	jmacdona	fad220f78c55 tip	Mon  7 Oct 11:25:52 BST 2013
+pd2_monte_carlo	18.3	lc-jmacdona.bc.ic.ac.uk	jmacdona	fad220f78c55+ tip	Mon  7 Oct 11:39:24 BST 2013
+pd2_monte_carlo	18.35	lc-jmacdona.bc.ic.ac.uk	jmacdona	fbb519e25a3d tip	Mon  7 Oct 11:40:46 BST 2013
+pd2_monte_carlo	18.4	lc-jmacdona.bc.ic.ac.uk	jmacdona	2bbf1af3325d tip	Fri 18 Oct 14:10:14 BST 2013
+pd2_monte_carlo	18.53	lc-jmacdona.bc.ic.ac.uk	jmacdona	35c6a4b96c17 tip	Fri 18 Oct 14:12:05 BST 2013
+pd2_monte_carlo	13.79	lc-jmacdona.bc.ic.ac.uk	jmacdona	ebd48761bf5a+ tip	Fri 18 Oct 14:16:59 BST 2013
+pd2_monte_carlo	12.17	lc-jmacdona.bc.ic.ac.uk	jmacdona	479ae712f134+ tip	Fri 18 Oct 14:23:08 BST 2013
+pd2_monte_carlo	13.33	lc-jmacdona.bc.ic.ac.uk	jmacdona	479ae712f134+ tip	Fri 18 Oct 14:24:28 BST 2013
+pd2_monte_carlo	13.72	lc-jmacdona.bc.ic.ac.uk	jmacdona	479ae712f134+ tip	Fri 18 Oct 14:26:12 BST 2013
+pd2_monte_carlo	13.66	lc-jmacdona.bc.ic.ac.uk	jmacdona	5750757cfe0a tip	Fri 18 Oct 14:27:40 BST 2013
+pd2_monte_carlo	11.99	lc-jmacdona.bc.ic.ac.uk	jmacdona	4ccb6fd78d06+ tip	Fri 18 Oct 16:33:09 BST 2013
+pd2_monte_carlo	11.76	lc-jmacdona.bc.ic.ac.uk	jmacdona	68560e408244+ tip	Fri 18 Oct 17:34:05 BST 2013
+pd2_monte_carlo	12.12	lc-jmacdona.bc.ic.ac.uk	jmacdona	25e2ae4715b9+ tip	Fri 18 Oct 17:36:37 BST 2013
+pd2_monte_carlo	12.1	lc-jmacdona.bc.ic.ac.uk	jmacdona	cdfb3068c7ab+ tip	Fri 18 Oct 17:38:31 BST 2013
+pd2_monte_carlo	12.17	lc-jmacdona.bc.ic.ac.uk	jmacdona	53bf68605f35+ tip	Fri 18 Oct 17:47:30 BST 2013
+pd2_monte_carlo	11.75	lc-jmacdona.bc.ic.ac.uk	jmacdona	d676f1360170+ tip	Fri 18 Oct 17:59:11 BST 2013
+pd2_monte_carlo	20.54	zino	jmacdona	88d54b482c43 tip	Sat Oct 19 17:41:02 BST 2013
+pd2_monte_carlo	20.65	zino	jmacdona	88d54b482c43+ tip	Sat Oct 19 17:42:43 BST 2013
+pd2_monte_carlo	17.46	lc-jmacdona.bc.ic.ac.uk	jmacdona	7d5685f40730 tip	Sat 19 Oct 19:17:56 BST 2013
+pd2_monte_carlo	17.19	lc-jmacdona.bc.ic.ac.uk	jmacdona	4a8e26345c3c tip	Mon 21 Oct 12:19:02 BST 2013
+pd2_monte_carlo	17.28	lc-jmacdona.bc.ic.ac.uk	jmacdona	0cb916191be0+ tip	Mon 21 Oct 14:26:09 BST 2013
+pd2_monte_carlo	17.15	lc-jmacdona.bc.ic.ac.uk	jmacdona	42929f334ae9+ tip	Mon 21 Oct 14:57:48 BST 2013
+pd2_monte_carlo/	17.65	lc-jmacdona.bc.ic.ac.uk	jmacdona	5b3e9fcef612 tip	Wed  6 Nov 13:19:20 GMT 2013
+pd2_monte_carlo	17.66	lc-jmacdona.bc.ic.ac.uk	jmacdona	5cf83dd0c031+ tip	Mon 11 Nov 15:59:12 GMT 2013
+pd2_monte_carlo	17.62	lc-jmacdona.bc.ic.ac.uk	jmacdona	60823ec28732+ tip	Mon 11 Nov 16:27:13 GMT 2013
+pd2_monte_carlo	17.65	lc-jmacdona.bc.ic.ac.uk	jmacdona	180777698e6d tip	Mon 11 Nov 16:28:24 GMT 2013
+pd2_monte_carlo/	10.5273	ALLURBALONG2US2.home	jmacdon	0544afb5ceba+ tip	Thu 25 Dec 2014 12:36:57 GMT
+pd2_monte_carlo/	10.6456	ALLURBALONG2US2.home	jmacdon	cdce93e7d441+ tip	Fri 26 Dec 2014 00:16:07 GMT
+pd2_monte_carlo/	10.4771	ALLURBALONG2US2.home	jmacdon	ad0ace60d2a0+ tip	Fri 26 Dec 2014 00:52:57 GMT
+pd2_monte_carlo	10.6499	ALLURBALONG2US2.home	jmacdon	6cb55e913de1 tip	Sun 28 Dec 2014 01:03:53 GMT
+pd2_monte_carlo/	10.7396	ALLURBALONG2US2.home	jmacdon	8532dca5ad06+ tip	Sun 28 Dec 2014 02:17:57 GMT	RUN_OK
+pd2_monte_carlo	10.5732	ALLURBALONG2US2.home	jmacdon	b46d608797ec+ tip	Sun 28 Dec 2014 16:14:09 GMT	RUN_OK
+./pd2_monte_carlo/	10.5008	MacBook-Pro.home	jmacdon	0cfcc7c82666+ tip	Fri  2 Jan 2015 02:26:11 GMT	RUN_OK
+pd2_monte_carlo/	18.08	lc-jmacdona.bc.ic.ac.uk	jmacdona	4d6c9cde6041+ tip	Fri  2 Jan 15:52:09 GMT 2015	RUN_OK
+pd2_monte_carlo	10.3301	MacBook-Pro.home	jmacdon	075c01d750be+ tip	Fri  2 Jan 2015 18:07:42 GMT	RUN_OK
+pd2_monte_carlo	10.3183	MacBook-Pro.home	jmacdon	a3020970de14+ tip	Fri  2 Jan 2015 23:25:41 GMT	RUN_OK
+pd2_monte_carlo	10.2699	MacBook-Pro.home	jmacdon	cc6d61beb13c+ tip	Fri  2 Jan 2015 23:36:18 GMT	RUN_OK
+pd2_monte_carlo/	10.3972	MacBook-Pro.home	jmacdon	efe2219cb951+ tip	Fri  2 Jan 2015 23:52:08 GMT	RUN_OK
+pd2_monte_carlo	18.04	lc-jmacdona.bc.ic.ac.uk	jmacdona	1f9b42899e41+ tip	Fri  2 Jan 23:58:15 GMT 2015	RUN_OK
+pd2_monte_carlo	10.2	la-psfcuda	jmacdona	a7a2cbadf50c+ tip	Fri 18 Sep 15:27:09 BST 2015	RUN_OK
+pd2_monte_carlo	10.79	la-psfcuda	jmacdona	e31166a807e7+ tip	Sat 19 Sep 18:00:51 BST 2015	RUN_OK
+pd2_monte_carlo	10.06	la-psfcuda	jmacdona	f60fb7f8d919+ tip	Mon  7 Dec 17:14:49 GMT 2015	RUN_OK
+pd2_monte_carlo/	9.73	la-psfcuda	jmacdona	7de4ed149fc3+ tip	Mon  7 Dec 17:28:50 GMT 2015	RUN_OK
+pd2_monte_carlo/	10.07	la-psfcuda	jmacdona	b776353162e4+ tip	Tue  8 Dec 11:45:36 GMT 2015	RUN_OK
+pd2_monte_carlo/	10.03	la-psfcuda	jmacdona	d3457a689875+ tip	Wed  4 May 16:34:27 BST 2016	RUN_OK
+pd2_monte_carlo/	9.46	la-psfcuda	jmacdona	336efcea57ab+ tip	Mon  5 Dec 11:35:41 GMT 2016	RUN_OK

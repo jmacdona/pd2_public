@@ -1,0 +1,25 @@
+bb_bond	1.0
+bb_bump	100.0
+bb_angle	1.0
+bb_dihedral	1.0
+#bb_strict_omega	100.0
+#bb_phi_psi_tether	5.0
+#bb_frag3_mq	1.0
+#bb_forbidden_phi_psi	1.0
+#bb_pp_bias_correction	1.0
+#bb_old_hb_other	1.0
+bb_old_hb_helix	1.0
+#bb_old_hb_strand	1.0
+bb_14_lj_atr	0.125
+bb_14_lj_rep	0.125
+bb_15_lj_atr	0.8
+bb_15_lj_rep	0.8
+
+#bond_potential	1.0
+#dihedral_restraint	1.0
+#coord_restraint	1.0
+strand_pairing_rst 1.0
+#angle_restraint	1.0
+#secs_dih_ang_rst	1.0
+
+#res_contact_rst 1.0

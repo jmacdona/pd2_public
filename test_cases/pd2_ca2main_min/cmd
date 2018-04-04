@@ -1,0 +1,1 @@
+../bin/pd2_ca2main --database ../database -i ../test_data/3CHY_CA.pdb -o out.pdb --ca2main:new  --random_seed 4802888856220072092

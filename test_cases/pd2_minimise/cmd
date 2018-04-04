@@ -1,0 +1,1 @@
+../bin/pd2_minimise --database ../database -i ../test_data/3CHY.pdb -o out.pdb --minimise  --random_seed 4802888856220072092

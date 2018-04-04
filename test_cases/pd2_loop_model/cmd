@@ -1,0 +1,1 @@
+../bin/pd2_loop_model --database ../database  --loop_model:fiser_test_protocol_corrected -i ../test_data/3CHY.pdb -o out.pdb --loop_model:insert_resnum 58 --loop_model:insert_overwrite 8 --loop_model:insert_chain A --loop_model:num_structs 100 --random_seed 4802888856220072092

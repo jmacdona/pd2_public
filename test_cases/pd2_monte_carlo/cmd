@@ -1,0 +1,1 @@
+../bin/pd2_monte_carlo --database ../database --monte_carlo:ca_mc -i ../test_data/3CHY_CA.pdb -o out.pdb --steps 10000  --random_seed 4802888856220072092

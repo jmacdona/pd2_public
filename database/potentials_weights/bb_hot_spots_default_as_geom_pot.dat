@@ -1,0 +1,20 @@
+bb_frag3_mq	1.0
+bb_forbidden_phi_psi	5.0
+bb_pp_bias_corr	0.7
+bb_bond	0.05
+bb_bump	100.0
+bb_angle	0.1
+bb_dihedral	0.1
+bb_old_hb_other	1.0
+bb_old_hb_helix	1.0
+bb_old_hb_strand	1.0
+as_geom_pot	8.0
+
+bond_potential	1.0
+dihedral_restraint	1.0
+sec_struct_restraint 1.0
+strand_pairing_rst 1.0
+
+
+
+res_contact_rst 1.0

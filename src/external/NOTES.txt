@@ -1,0 +1,25 @@
+External code
+
+ceres-solver 
+http://ceres-solver.org/
+added from git repository on 27/12/14
+git clone https://ceres-solver.googlesource.com/ceres-solver
+git describe
+1.10.0-3-g9e735d2
+compilation of ceres-solver- using this CMake-1.10.0 command
+cmake -DSUITESPARSE=OFF -DCXSPARSE=OFF -DEIGENSPARSE=ON -DMINIGLOG=ON -DOPENMP=ON -DEIGEN_INCLUDE_DIR=~/prodart2/src/external/include/ -DCMAKE_INSTALL_PREFIX="./"     ../ceres-solver-1.10.0/
+turning OPENMP off seemed to result in compilation errors with gtest  
+
+
+Eigen 3.2.3
+http://eigen.tuxfamily.org/
+added from hg repository on 2/1/15
+hg clone https://bitbucket.org/eigen/eigen/
+hg id
+83b91d08851a
+changing to branch 3.2
+hg up 3.2
+hg id
+33204d4b8dd6 (3.2) tip
+
+

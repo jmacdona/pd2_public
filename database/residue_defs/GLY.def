@@ -1,0 +1,27 @@
+RESI GLY          0.00
+GROUP   
+ATOM N    NH1    -0.47  !     |
+ATOM HN   H       0.31  !     N-H
+ATOM CA   CT2    -0.02  !     |  
+ATOM HA1  HB      0.09  !     |  
+ATOM HA2  HB      0.09  ! HA1-CA-HA2
+GROUP                   !     |  
+ATOM C    C       0.51  !     |  
+ATOM O    O      -0.51  !     C=O
+                        !     |
+BOND N HN  N  CA  C CA   
+BOND C +N  CA HA1 CA HA2  
+DOUBLE O  C 
+IMPR N -C  CA HN  C CA   +N O   
+CMAP -C  N  CA  C   N  CA  C  +N
+DONOR HN N   
+ACCEPTOR O C   
+IC -C   CA   *N   HN    1.3475 122.8200  180.0000 115.6200  0.9992
+IC -C   N    CA   C     1.3475 122.8200  180.0000 108.9400  1.4971
+IC N    CA   C    +N    1.4553 108.9400  180.0000 117.6000  1.3479
+IC +N   CA   *C   O     1.3479 117.6000  180.0000 120.8500  1.2289
+IC CA   C    +N   +CA   1.4971 117.6000  180.0000 124.0800  1.4560
+IC N    C    *CA  HA1   1.4553 108.9400  117.8600 108.0300  1.0814
+IC N    C    *CA  HA2   1.4553 108.9400 -118.1200 107.9500  1.0817
+
+

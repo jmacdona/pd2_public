@@ -1,0 +1,23 @@
+//
+// (c)  JAMES T. MACDONALD 2010-2013 
+// All the files in this directory and sub-directories, except where otherwise stated, are part of the PD2 software
+// suite and is made available under license.
+//
+// This software is made available for your internal, non-profit research use under the following conditions: 
+//
+// 1. The Software remains at your Institution and is not distributed outside of your Institution.
+// 2. You agree to make results generated using Software available to other academic researchers for non-profit research purposes. For commercial licenses you must contact: j.t.macdonald+prodart@gmail.com 
+// 3. If you use this work in any publications you must cite the relevant paper(s): 
+	James T. MacDonald, Katarzyna Maksimiak, Michael I. Sadowski, William R. Taylor. De novo backbone scaffolds for protein design (2010). Proteins. 78:1311-1325
+	Benjamin L. Moore, Lawrence A. Kelley, James Barber, James W. Murray, and James T. MacDonald. High quality protein backbone reconstruction from alpha carbons using Gaussian mixture models (2013). Under review.
+	James T. MacDonald, Lawrence A. Kelley, Paul S. Freemont. Validating a coarse-grained potential energy function through protein loop modelling (2013). Under review.
+// 4. You may not modify the software without prior permission of the copyright holder
+// 5. You agree that the author(s) of this Software accept no liability for any risk associated with using the Software at your institution. This Software is experimental in nature and is provided "As Is."
+//
+// THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+//
+// For more information please contact by email: j.t.macdonald+prodart@gmail.com
+//
+
+
+
