@@ -5,7 +5,7 @@
 #define M_PI REAL(3.1415926535897932384626433832795029)
 #endif
 
-#include <eigen3/Eigen/Dense>
+#include <Eigen/Dense>
 #include <iostream>
 #include <fstream>
 #include<boost/algorithm/string.hpp>
